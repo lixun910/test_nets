@@ -1,0 +1,5 @@
+./data
+.tmp
+data/*
+.vscode/settings.json
+.gitattributes
